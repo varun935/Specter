@@ -80,7 +80,7 @@ If you’re into low-level Linux hacking, Python, or stealthy networking — sta
 
 ## 🧩 License
 
-This project is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+This project is licensed under the MIT License — see the LICENSE file for details.
 See [`LICENSE`](./LICENSE) for full details.
 
 ---
