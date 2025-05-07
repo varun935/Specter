@@ -32,14 +32,14 @@ Stay tuned for updates and milestone logs. This is a **long-term project** built
 
 ## 🧠 Key Features (Planned / In Progress)
 
-- [ ] LAN reverse shell connection
+- [✅] LAN reverse shell connection
 - [ ] Remote internet access via Ngrok or DDNS
 - [ ] File upload/download
 - [ ] Privilege escalation modules (enum + exploitation)
-- [ ] Persistence across reboots
+- [✅] Persistence across reboots
 - [ ] Screenshot / keystroke logging
 - [ ] Terminal UI or lightweight dashboard
-- [ ] Modular plugin system for tools
+- [✅] Modular plugin system for tools
 
 ---
 
