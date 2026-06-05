@@ -1,0 +1,6 @@
+attacker/key.pem
+attacker/cert.pem
+attacker/downloads/
+attacker/plugins/__pycache__/
+__pycache__/
+*.pyc
